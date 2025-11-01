@@ -41,6 +41,6 @@
 ---
 
 ## 📬 Connect With Me  
-- 💼 LinkedIn: [Marwan Bebars]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/marwan-bebars-51249a325/))  
+- 💼 LinkedIn: [Marwan Bebars](https://www.linkedin.com/in/marwan-bebars-51249a325/)  
 - 🐙 GitHub: [Marwan252](https://github.com/Marwan252)  
 - 📧 Email: marwanpepars@gmail.com 
